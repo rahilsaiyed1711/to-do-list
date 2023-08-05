@@ -124,3 +124,10 @@ transition: 0.4s;
 .task .actions .delete{
 color: crimson;
 }
+footer {
+margin-top: auto;
+margin-left: 38rem;
+color: #6B7280;
+font-size: 1.5rem;
+  font-family: 'Montserrat';
+}
